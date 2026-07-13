@@ -1,5 +1,5 @@
 ## Olá, eu sou a Julia! 
 
 - 💜 Foco em front-end
-- 💜 Estudando Javascript
+- 💜 Estudando Javascript e Typescript :)
 - 💜 Pronouns: Ela/Dela
